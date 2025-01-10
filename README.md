@@ -1,5 +1,5 @@
 # ias
-Intelligent Automation Solution designed for different kinds of vertical industry powered by fine tuned locally deployed AI LLMs.
+Intelligent Automation Solution designed for different kinds of vertical industry.
 
 
 ias - Intelligent Automation Solution designed for different kinds of vertical industry powered by fine tuned locally deployed AI LLMs. Here is an example about ias is applied to Automation quailty platform with below key features.
