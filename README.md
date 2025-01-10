@@ -10,6 +10,14 @@ ias - Intelligent Automation Solution designed for different kinds of vertical i
 
 Tech stack
 https://github.com/atinyplace/ias/blob/main/techstack.png
+# 我的项目
+
+这是一个示例项目。
+
+![项目图片](https://github.com/atinyplace/ias/blob/main/techstack.png
+)
+
+
 
 Contact
 Email: jockywin@hotmail.com | LinkedIn:  linkedin.com/in/haiger-wang-35291b82/
