@@ -9,6 +9,8 @@ ias - Intelligent Automation Solution designed for different kinds of vertical i
   * LLM powered customized automation solution throughout the whole Software Development Lifecycle by improve process efficiency, reducing issue debug effort and more extendable possibility for any pain point. 
 
 Tech stack
+
+
 ![项目图片](https://github.com/atinyplace/ias/blob/main/techstack.png
 )
 
