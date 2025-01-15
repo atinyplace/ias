@@ -1,7 +1,7 @@
 # ias
-Intelligent Automation Solution designed for different kinds of vertical industry.
+Intelligent Automation Solution designed for different kinds of vertical industry， which is powered by fine tuned locally deployed AI LLMs.
 
-ias powered by fine tuned locally deployed AI LLMs. Here is an example about ias is applied to Automation quailty platform with below key features.
+Here is an example about ias is applied to Automation quailty platform with below key features.
   * Smart Agent augmented Quality platform for end to end automating test across multiple channels including  Web, Android, iOS, API & Desktop.
   * User Case Generation framework designed with service-oriented with industry provided open-source solution
   * Design ideas with behaviour/Keyword/data driven, and easy integrated with CI/CD with web API
